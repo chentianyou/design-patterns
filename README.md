@@ -7,7 +7,7 @@
     * [抽象工厂模式](creational/abstract-factory)
     * [单例模式](creational/singleton)
     * [建造者模式](creational/builder)
-    * 原型模式
+    * [原型模式](creational/prototype)
 
 2. 结构型模式
     * 适配器模式
