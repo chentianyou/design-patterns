@@ -10,8 +10,8 @@
     * [原型模式](creational/prototype)
 
 2. 结构型模式
-    * 适配器模式
-    * 桥连接模式
+    * [适配器模式](structural/adapter)
+    * [桥连接模式](structural/bridge)
     * 过滤器模式
     * 组合模式
     * 装饰器模式
