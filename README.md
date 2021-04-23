@@ -12,8 +12,8 @@
 2. 结构型模式
     * [适配器模式](structural/adapter)
     * [桥连接模式](structural/bridge)
-    * 过滤器模式
-    * 组合模式
+    * [过滤器模式](structural/filter)
+    * [组合模式](structural/composite)
     * 装饰器模式
     * 外观模式
     * 享元模式
